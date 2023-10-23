@@ -14,12 +14,12 @@ const config = {
   url: 'https://xinix.space',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/docs-test/',
+  baseUrl: '/eagler-docs/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'wxnnvs', // Usually your GitHub org/user name.
-  projectName: 'docs-test', // Usually your repo name.
+  projectName: 'eagler-docs', // Usually your repo name.
   deploymentBranch: 'gh-pages',
   trailingSlash: false,
 
