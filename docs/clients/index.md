@@ -6,7 +6,7 @@ The official website is [eaglercraft.com](https://eaglercraft.com) wich has 1.3,
 
 ## Community
 
-- [Eagler CE](eagler-ce)
-- [Eagler Reborn](eagler-reborn)
-- [Radmanplays EaglerArchive](rplays-archive)
+- [Eagler CE](./eagler-ce.md)
+- [Eagler Reborn](./eagler-reborn.md)
+- [Radmanplays EaglerArchive](./rplays-archive.md)
 - And so much more!
