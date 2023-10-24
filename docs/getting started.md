@@ -43,6 +43,6 @@ You can find some of them [here](./clients/) or use one of your own.
 4. Type ./CompileLatestClient.sh and hit enter, a GUI resembling a classic windows installer should open
 5. Follow the steps shown to you in the new window to finish compiling
 
-## 4. Have fun!
+### 4. Have fun!
 
 The offline download and web files should be generated inside the folder you selected for the output!
