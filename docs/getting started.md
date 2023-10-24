@@ -25,8 +25,8 @@ You can find some of them [here](./clients/) or use one of your own.
 
 ### 2. Clone the repo to your device
 
-1. Press the code button ![button](../static/img/code-button.png) and head over to the ´Local´ tab.  
-2. Click the ´Download as ZIP´ button  
+1. Press the code button ![button](../static/img/code-button.png) and head over to the <code>Local</code> tab.  
+2. Click the <code>Download as ZIP</code> button  
 3. Extract the zip-file to your location of choice
 
 ![button](../static/img/download-zip.png)  
