@@ -1,3 +1,3 @@
-# IN DEVELOPMENT
+# The Eaglercraft Docs
 
-Contribute pls, i dont have time for this
+ligmaballz
