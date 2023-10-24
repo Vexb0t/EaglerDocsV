@@ -1,3 +1,3 @@
 # The Eaglercraft Docs
 
-ligmaballz
+[wxnnvs.github.io/eagler-docs](https://wxnnvs.github.io/eagler-docs)
