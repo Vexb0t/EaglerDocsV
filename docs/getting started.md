@@ -10,7 +10,11 @@ sidebar_position: 2
 To play Eaglercraft you either use a website or an offline download  
 The official place to go is [eaglercraft.com](https://eaglercraft.com), but there are several other options.
 
-Check out [this page](./clients/) to find other clients (you might have to [build these yourself](#build-it-yourself))
+:::info
+
+Check out [the next page](./clients/) to find other clients (you might have to [build these yourself](#build-it-yourself))
+
+:::
 
 ## Build it yourself
 

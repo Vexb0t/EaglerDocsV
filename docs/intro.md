@@ -5,9 +5,7 @@ sidebar_position: 1
 
 # Introduction
 
-## What is Eaglercraft?
-
-### The basics
+## The basics
 
 Eaglercraft is Minecraft ported to your browser, developed by lax1dude (and ayunami2000).  
 It is now maintained by the community.
@@ -31,3 +29,7 @@ It is recommended to use 1.8.8 over both 1.3 and 1.5.2 as it introduces more opt
 However 1.5.2 is also quite common, because it has singleplayer and some of the popular servers are still online.
 
 :::
+
+## History
+
+Im too lazy to write this
