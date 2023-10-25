@@ -76,7 +76,7 @@ const config = {
       },
       footer: {
         style: 'dark',
-        copyright: `I am cool.`,
+        copyright: `Made with ❤️ by WXNNVS <br/>Domain by <a href="https://freedns.afraid.org">FreeDNS</a>`,
       },
       prism: {
         theme: lightCodeTheme,
