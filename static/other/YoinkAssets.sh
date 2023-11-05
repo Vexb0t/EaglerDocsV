@@ -1,1 +1,1 @@
-# i removes this because mojang doesn't like it
+# i removed this because mojang doesn't like it
