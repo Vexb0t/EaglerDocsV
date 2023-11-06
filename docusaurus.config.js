@@ -14,7 +14,7 @@ const config = {
   url: 'https://xinix.space',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/eagler-docs',
+  baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -68,7 +68,7 @@ const config = {
             label: 'Intro',
           },
           {
-            href: 'https://github.com/wxnnvs/docs-test',
+            href: 'https://github.com/wxnnvs/eagler-docs',
             label: 'GitHub',
             position: 'right',
           },
