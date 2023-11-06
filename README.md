@@ -1,5 +1,13 @@
 # The Eaglercraft Docs
 
-[not.mcsoft.org](https://not.mcsoft.org) or [wxnnvs.github.io/eagler-docs](https://wxnnvs.github.io/eagler-docs)
+The Eaglercraft documentation is available at [not.mcsoft.org](https://not.mcsoft.org)
 
-Special thanks to [Radmanplays](https://github.com/radmanplays) for contributing to the project!
+If you experience problems with the website or domain, please create an issue or dm me on Discord (@wxnnvs)
+
+Contributions are highly appreciated
+
+
+Special thanks to:
+- [Free DNS](https://freedns.afraid.org) for the domain
+- [Radmanplays](https://github.com/radmanplays) for contributing
+- [Lax1dude](https://github.com/lax1dude) and [Ayunami2000](https://github.com/ayunami2000) for creating the project
