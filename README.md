@@ -6,7 +6,6 @@ If you experience problems with the website or domain, please create an issue or
 
 Contributions are highly appreciated
 
-
 Special thanks to:
 - [Free DNS](https://freedns.afraid.org) for the domain
 - [Radmanplays](https://github.com/radmanplays) for contributing
