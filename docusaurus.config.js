@@ -7,11 +7,11 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Eaglercraft documentation',
-  tagline: 'Check it out bru!',
+  tagline: 'Check it out bro!',
   favicon: 'img/icon.jpg',
 
   // Set the production url of your site here
-  url: 'https://xinix.space',
+  url: 'https://not.mcsoft.org',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
