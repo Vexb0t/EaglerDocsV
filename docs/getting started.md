@@ -57,7 +57,7 @@ The offline download and web files should be generated inside the folder you sel
 1. Make sure you have at least Java 11 installed
 2. Open a terminal in the folder the repository was cloned to
 3. type sudo apt install ffmpeg
-4. (you can do the next 2 steps in one click by downloading [this file](hhttps://raw.githubusercontent.com/wxnnvs/YoinkAssets.sh/main/YoinkAssetts.sh) and puting it inside of the root folder of the cloned repo and running it(press ctrl+s in the page to download it))
+4. (you can do the next 2 steps in one click by downloading [this file](https://raw.githubusercontent.com/wxnnvs/YoinkAssets.sh/main/YoinkAssetts.sh) and puting it inside of the root folder of the cloned repo and running it(press ctrl+s in the page to download it))
 5. download minecraft 1.8.8 jar file from [here](https://launcher.mojang.com/v1/objects/0983f08be6a4e624f5d85689d1aca869ed99c738/client.jar) and json file from [here](https://launchermeta.mojang.com/mc/game/96f1789c25884755f4d3143d2e1364c9dded7d6b/1.8.8.json) and mcp from [here](http://www.modcoderpack.com/files/mcp918.zip) and put them in the mcp918 folder in the source code
 6. change the name of the jar file from client.jar to 1.8.8.jar and the 1.8.8.json file to 1.8.json
 7. type chmod +x build_init.sh
